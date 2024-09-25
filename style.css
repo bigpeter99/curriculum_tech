@@ -10,6 +10,7 @@
   --stroke-color: 1px solid rgba(255, 255, 255, 0.5);
   --surface-color: rgba(0, 139, 139);
   --switch-bg-url: url(./assets/MoonStars.svg);
+  --highlight-color: rgb(170, 220, 190);
 }
 
 .light {
@@ -90,7 +91,7 @@ body * {
 }
 
 #switch button:hover {
-  outline: 8px solid var(--stroke-color)
+  outline: 8px solid var(--highlight-color);
 }
 
 #switch span {
