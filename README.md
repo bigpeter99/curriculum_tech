@@ -18,7 +18,7 @@ Site de acesso livre para divulgação dos trabalhos do autor. Currículo Vitae.
 <br>
 
 <p align="center">
-  <img alt="Tecnologia ilustrada" src=".github/preview.jpg" width="100%">
+  <img alt="Tecnologia ilustrada" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
