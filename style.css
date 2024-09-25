@@ -177,3 +177,14 @@ footer {
 footer a:hover {
   background-color: rgb(125, 169, 169);
 }
+
+/*media queries*/
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-solid.jpg);
+  }
+
+  :light {
+    --bg-url: url(./assets/space.jpg);
+  }
+}
